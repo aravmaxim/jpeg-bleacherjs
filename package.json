@@ -1,0 +1,22 @@
+{
+  "name": "jpeg-bleacherjs",
+  "version": "1.0.0",
+  "description": "Jpeg cleaner and true file type checker.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aravmaxim/jpeg-bleacherjs.git"
+  },
+  "keywords": [
+    "cdr"
+  ],
+  "author": "Maxim Arav <aravmaxim@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aravmaxim/jpeg-bleacherjs/issues"
+  },
+  "homepage": "https://github.com/aravmaxim/jpeg-bleacherjs#readme"
+}
